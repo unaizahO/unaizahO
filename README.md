@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @unaizahO
 - 👀 I’m interested in research related to cognitive science/cognitive psychology
 - 🌱 I’m currently learning computational neuroscience!
-- 💞️ I’m looking to collaborate on studies that investigates cognition, especially on eye-tracking!
+- 💞️ I’m looking to collaborate on studies that investigates cognition, especially those related to eye-tracking!
 - 📫 How to reach me - unaizah@um.edu.my 
 
 <!---
